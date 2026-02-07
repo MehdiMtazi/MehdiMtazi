@@ -7,7 +7,7 @@ I am a Developer & Data Engineer passionate about building scalable architecture
 ### 💼 Professional Experience & Projects
 
 > [!IMPORTANT]
-> Some of my most significant work (Corelia, Alfred Technologies) was developed for private organizations. Due to **Proprietary Rights and Confidentiality Agreements (NDA)**, the source code for these repositories is private and cannot be shared publicly.
+> Some of my most significant work (Corelia, Alfred Technologies) was developed for private organizations. The source code for these repositories is private and cannot be shared publicly.
 
 #### 🏦 Corelia | Fraud Detection & Compliance (AML)
 * **Context:** Corporate Project (Private Repository)
