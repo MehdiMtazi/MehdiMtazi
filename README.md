@@ -4,38 +4,45 @@ I am a Developer & Data Engineer passionate about building scalable architecture
 
 ---
 
-### 🚀 Current & Past Projects (Private Repositories)
+### 💼 Professional Experience & Projects
 
-While most of my professional work is hosted in private organization repositories for confidentiality, here is a breakdown of what I've been building:
+> [!IMPORTANT]
+> Some of my most significant work (Corelia, Alfred Technologies) was developed for private organizations. Due to **Proprietary Rights and Confidentiality Agreements (NDA)**, the source code for these repositories is private and cannot be shared publicly.
 
 #### 🏦 Corelia | Fraud Detection & Compliance (AML)
+* **Context:** Corporate Project (Private Repository)
 * **Role:** Data Engineer / ML Developer
-* **Impact:** Developed ETL pipelines to process massive transaction flows and deployed anomaly detection models to reduce false positives in money laundering prevention.
+* **Impact:** Developed ETL pipelines for massive transaction flows and deployed anomaly detection models to reduce false positives in money laundering prevention.
 * **Tech Stack:** `Python`, `Pandas`, `Machine Learning`, `ETL Pipelines`.
 
 #### 📦 Alfred Technologies | Inventory Management Optimization
+* **Context:** Corporate Project (Private Repository)
 * **Role:** Backend & Data Automation
-* **Impact:** Built a REST API-based data collection architecture and filtering algorithms to power predictive models for logistics and stock anticipation.
+* **Impact:** Built a REST API-based data collection architecture and filtering algorithms to power predictive models for logistics.
 * **Tech Stack:** `Python`, `REST APIs`, `Predictive Modeling`, `Agile`.
+
+---
+
+### 🚀 Open & Hackathon Projects
 
 #### 🔵 Base Hackathon | Web3 DApp Prototype
 * **Role:** Fullstack Web3 Developer
-* **Impact:** Designed and prototyped a decentralized application on the Base ecosystem. Implementation of Smart Contracts and Web3 interfaces.
+* **Impact:** Designed and prototyped a decentralized application on the Base ecosystem.
 * **Tech Stack:** `Solidity`, `React`, `TypeScript`, `Web3.js`.
 
 #### 💧 Sui Hackathon | Move-based Smart Contracts
 * **Role:** Smart Contract Developer
-* **Impact:** Developed and deployed innovative DApp features using the Move language on the Sui blockchain during a competitive hackathon.
-* **Tech Stack:** `Move`, `Sui SDK`, `Blockchain Architecture`.
+* **Impact:** Developed and deployed innovative DApp features using the Move language on the Sui blockchain.
+* **Tech Stack:** `Move`, `Sui SDK`.
 
 #### 📍 Liv’In Paris | Delivery & Order Management
 * **Role:** Backend Developer
-* **Impact:** Developed a C# application to optimize delivery routes using graph algorithms and integrated a SQL database for order management.
-* **Tech Stack:** `C#`, `Graph Algorithms`, `SQL`, `Data Analysis`.
+* **Impact:** Developed a C# application to optimize delivery routes using graph algorithms and SQL.
+* **Tech Stack:** `C#`, `Graph Algorithms`, `SQL`.
 
 #### 🎲 Boogle Game | Game Logic Simulation
 * **Role:** Software Developer
-* **Impact:** Developed a complete computer simulation of the Boggle word game, implementing game logic, dictionary validation, and scoring systems.
+* **Impact:** Developed a complete computer simulation of the Boggle word game, implementing game logic and dictionary validation.
 * **Tech Stack:** `C#`, `Logic Implementation`, `Algorithms`.
 
 ---
@@ -56,4 +63,4 @@ While most of my professional work is hosted in private organization repositorie
 ---
 
 ### 📫 Reach me:
-- **LinkedIn:** [Ton lien LinkedIn ici]
+- **LinkedIn:** [Lien vers ton profil LinkedIn]
