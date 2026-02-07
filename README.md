@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mehdi
+## Hi there 👋 I'm Mehdi Mateo TAZI
 
 I am a Developer & Data Engineer passionate about building scalable architectures, from Fintech compliance to Web3 ecosystems.
 
