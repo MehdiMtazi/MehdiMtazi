@@ -63,4 +63,4 @@ I am a Developer & Data Engineer passionate about building scalable architecture
 ---
 
 ### 📫 Reach me:
-- **LinkedIn:** [Lien vers ton profil LinkedIn]
+- **LinkedIn:** [www.linkedin.com/in/mehdi-mateo-tazi-819264296](https://www.linkedin.com/in/mehdi-mateo-tazi-819264296/)
