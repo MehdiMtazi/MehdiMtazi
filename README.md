@@ -56,11 +56,5 @@ I am a Developer & Data Engineer passionate about building scalable architecture
 
 ---
 
-### 📊 GitHub Stats
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehdiMtazi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiMtazi&layout=compact&theme=radical)
-
----
-
 ### 📫 Reach me:
 - **LinkedIn:** [www.linkedin.com/in/mehdi-mateo-tazi-819264296](https://www.linkedin.com/in/mehdi-mateo-tazi-819264296/)
